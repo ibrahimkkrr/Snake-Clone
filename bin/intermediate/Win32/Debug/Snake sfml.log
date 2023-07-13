@@ -1,0 +1,6 @@
+﻿  Snake.cpp
+C:\Users\ibrahim\Documents\c++\Snake sfml\src\Snake.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\Snake sfml\src\Snake.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\Snake sfml\src\Snake.cpp(118,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrahim\Documents\c++\Snake sfml\src\Snake.cpp(155,18): warning C4018: '>': signed/unsigned mismatch
+  Snake sfml.vcxproj -> C:\Users\ibrahim\Documents\c++\Snake sfml\bin\Win32\Debug\Snake sfml.exe
